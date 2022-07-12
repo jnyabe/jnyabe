@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/jnyabe/jnyabe/">
     <img src="https://komarev.com/ghpvc/?username=jnyabe" alt="jnyabe" />
   </a>
@@ -25,6 +25,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/jnyabe/contributions.svg" />
   </a>
 </p>
+ 
 - 👋 Hi, I’m @jnyabe
 - 👀 I’m interested in computer vsion, machine learning, data science, user interface and so on.
 - 🌱 I’m currently learning data science.
